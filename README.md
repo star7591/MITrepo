@@ -1,2 +1,2 @@
 # MITrepo
-DT-module 3
+DT-module 3: Cloud
